@@ -7,12 +7,13 @@ Acontinuacion estudiaremos C# acorde al contenido propuesto por microsoft
 
 Los puntos a ver son
 
-# Primeras lineas de codigo: 
+# 1️⃣ Primeras lineas de codigo: 
 ## Tipos de Datos
 ## Variables
 ### Operaciones con strings
 ### Operaciones aritmeticas
 ### Operaciones Logicas
-# Ciclos o bucles
-# POO: Clases
-# POO: Metodos
+# 2️⃣ Ciclos o bucles
+# 3️⃣ Programacion Orientada a Objetos: 
+## Clases
+## Metodos
