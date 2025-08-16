@@ -13,6 +13,6 @@ Los puntos a ver son
 # Operaciones con strings
 # Operaciones aritmeticas
 # Operaciones Logicas
-# Ciclos
+# Ciclos o bucles
 # POO: Clases
 # POO: Metodos
